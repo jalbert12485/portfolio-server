@@ -1,0 +1,58 @@
+
+
+img{
+    margin: 10px 0px 10px 0px;
+    width: 250px;
+}
+
+#aboutimg{
+    float: left;
+    margin: 20px;
+    width: 200px;
+
+}
+
+footer{
+    padding-top: 5px;
+    width: 100%;
+    background-color: purple;
+
+}
+
+footer p{
+    margin: 10px 0 0 0;
+    text-align: center;
+    background-color: gray;
+}
+.aboutcont{
+    padding: 30px;
+    margin: 8% 5% 8% 5%;
+  
+}
+
+body{
+    background-color: lightgray;
+}
+
+.boxheader{
+    width: 100%;
+    color: purple;
+    border-bottom: 2px solid purple;
+}
+#submitbutton{
+    background-color: purple;
+}
+
+.fa-linkedin{
+    background-color: #0073B1;
+    color: white;
+    border-radius: 5px;
+}
+.fa-github{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.icon-font{
+    font-size: xx-large;
+}
