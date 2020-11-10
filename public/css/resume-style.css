@@ -25,7 +25,9 @@ header{
     
 }
 
-
+li {
+    overflow: hidden;
+}
 
 
 main{
