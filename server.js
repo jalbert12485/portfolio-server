@@ -6,9 +6,7 @@ const express = require("express");
 const path=require("path");
 const fs=require("fs");
 
-// Sets up the Express App
-// =============================================================
-var app = express();
+
 // Static directory to be served
 const app = express();
 const PORT = process.env.PORT || 3000;
