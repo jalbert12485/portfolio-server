@@ -12,8 +12,8 @@ $("#submitbutton").on("click", function(e){
     }
 
     $.post("/emailme", body).done(function(){
-        name="Thank you";
-        text="Your message has been sent.";
+        $("#exampleInputEmail1").val("Thank you");
+        $("#exampleFormControlTextarea1").val("Your message has been sent.");
         $("#submitbutton").attr("disabled", true);
 
     });
