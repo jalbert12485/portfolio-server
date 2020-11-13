@@ -26,12 +26,7 @@ module.exports = function (app) {
 
     app.post("/emailme", (req,res) =>{
 
-      var mailOptions = {
-        from: 'jalbert@carthage.edu',
-        to: 'jalbert@carthage.edu',
-        subject: 'Sending Email using Node.js',
-        text: 'That was easy!'
-      };
+      var mailOptions = req.body;
       
       transporter.sendMail(mailOptions, function(error, info){
         if (error) {
