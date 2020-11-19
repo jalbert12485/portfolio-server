@@ -6,7 +6,7 @@ $("#submitbutton").on("click", function(e){
     let body={
         "from": email,
         "to": "jalbert@carthage.edu",
-        "subject": `Message from ${name}`,
+        "subject": `Message from ${name} at ${email}`,
         "text": text
 
     }
