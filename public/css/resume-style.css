@@ -1,13 +1,3 @@
-
-.background{
-
-    margin: 6% auto;
-    background-color: white;
-
-  
-}
-
-
 .nolist{
     margin: 0px;
     padding: 0px;
@@ -19,19 +9,13 @@ header{
 }
 
 
-#headshot {
-    max-width: 125px;
-    border-radius: 300px;
-    
-}
-
 li {
     overflow: hidden;
 }
 
 
 main{
-    margin:30px;
+    margin-top: 20px;
     border-bottom: 2px solid black;
 }
 main a{

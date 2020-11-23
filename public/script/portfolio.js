@@ -36,7 +36,7 @@ addProject("refactor","Refactor","A given working code has been refractored to b
 
 for(let i=0; i<projects.length; i++){
 let newDiv=$("<div>");
-newDiv.addClass("card col-md-6 col-sm-12");
+newDiv.addClass("card col-sm-12");
 newDiv.attr("style", "width: 18rem");
 let newImg=$("<img>");
 newImg.addClass("card-img-top");
