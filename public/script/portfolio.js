@@ -39,7 +39,6 @@ addProject("daily-calendar","Daily Calendar","Write down and store your planned 
 
 addProject("password-generator","Password Generator","Generate a secure password from your choice of character sets.",true,false,null);
 
-addProject("refactor","Refactor","A given working code has been refractored to be more accessible.",true,false,null);
 
 for(let i=0; i<projects.length; i++){
 let newDiv=$("<div>");
