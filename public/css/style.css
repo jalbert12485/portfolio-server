@@ -4,6 +4,9 @@
     top: 0;
     z-index: 1;
 }
+.btn{
+    background-color: purple;
+}
 
 img{
     margin: 10px 0px 10px 0px;

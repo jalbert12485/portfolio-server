@@ -13,10 +13,17 @@ function addProject(dashname, name, description, deployatgithub, deployelsewhere
     );
 }
 
-addProject("limit-electronics","Limit Electronics","Limit Electronics is a one-stop shop for your electronic needs. In this project we created a mock e-commerce site complete with search, add to cart, checkout, inventory management and sales analysis features. Use username: Justin password: password to access admin features.",false,true,null);
+addProject("limit-electronics","Limit Electronics","Limit Electronics is a one-stop shop for your electronic needs. In this project we created a mock e-commerce site complete with search, add to cart, checkout, inventory management and sales analysis features. Use username: Justin password: password to access admin features.",false,true,"https://fierce-earth-38835.herokuapp.com/");
 
 addProject("whats-for-dinner","What's For Dinner?","A website meant to recommend dinner and drink options to the user.  After choosing an option, the user can then see the recipe and instructions to make his/her choice.",true,false,null);
 
+addProject("employee-directory","Employee Directory","Look up information for the employees of your company.  You can sort your results by name and time at company and can filter by locations.",false,true,"https://agile-island-64595.herokuapp.com/");
+
+addProject("budget-tracker","Budget Tracker","Dynamically keep track of your budget.  Add deposits, subtract withdrawels even without the internet.",false,true,"https://warm-dawn-06348.herokuapp.com/");
+
+addProject("fitness-tracker","Fitness Tracker","Keep track of all your exercising over multiple workouts!",false,true,"https://morning-tor-96328.herokuapp.com/?id=5fae161b53fea50017749a3e");
+
+addProject("burger","Burgers!","A full stak application that logs burgers that have been made and those that have been eaten.",false,true,"https://ghoulish-nightmare-54214.herokuapp.com/");
 
 addProject("covid-data","COVID Tracking","Want to check the latest statistics for COVID in your state?  You can get detailed up to date information here.",true,false,null);
 
