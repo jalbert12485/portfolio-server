@@ -4,9 +4,12 @@
     top: 0;
     z-index: 1;
 }
+
+
 .btn{
-    background-color: purple;
+    background-color: purple !important;
 }
+
 
 img{
     margin: 10px 0px 10px 0px;
