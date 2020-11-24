@@ -18,12 +18,24 @@ img{
 
 #aboutimg{
     float: left;
-    padding: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
     box-sizing: border-box;
     width: 100%;
-    max-width: 350px;
+    height: auto;
 
 }
+
+@media screen and (min-width: 500px) {
+    #aboutimg {
+        float: left;
+        padding-right: 20px;
+        padding-left: 20px;
+        box-sizing: border-box;
+        width: 300px;
+
+    }
+  }
 
 footer{
     position: fixed;
