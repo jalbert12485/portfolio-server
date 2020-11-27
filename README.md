@@ -10,14 +10,17 @@
  ![](Screenshot.png) 
  
 ## Usage 
- In order to view this project as a user, you will go to the [deployed project](https://jalbert12485.github.io/portfolio/).  When there, you can use the navigation bar to go to the desired about me, portfolio, contact or resume pages.  In the portfolio page you will be given a brief overview of some of the work I have completed.  You can then use the provided links to travel to the github repository or the deployed links.  In the contact page, you can click the icons to be redirected to my linkedIn or Github pages as well as get my email and phone number. 
+ In order to view this project as a user, you will go to the [deployed project](https://fast-island-64485.herokuapp.com/).  When there, you can use the navigation bar to go to the desired about me, portfolio, contact or resume pages.  In the portfolio page you will be given a brief overview of some of the work I have completed.  You can then use the provided links to travel to the github repository or the deployed links.  In the contact page, you can click the icons to be redirected to my linkedIn or Github pages as well as get my email and phone number. 
 
- If you would like to use this repo as developer to create your own portfolio.  Feel free to do so, provided you supply your own information to the portfolio.  You can clone this repository at [GitHub](https://github.com/jalbert12485/employee_tracker.git) 
+ If you would like to use this repo as developer to create your own portfolio.  Feel free to do so, provided you supply your own information to the portfolio.  You can clone this repository at [GitHub](https://github.com/jalbert12485/portfolio-server) 
 ```sh 
-git clone https://github.com/jalbert12485/employee_tracker.git
+git clone https://github.com/jalbert12485/portfolio-server
  ```    
 ## Contact 
  If you would like more information please contact me at [email](mailto:jalbert@carthage.edu).  Any additional information you would like to give me in your email will be greatly appreciated.
+
+If you are looking for a new employee, I would be delighted to talk to you.  Please let me know what position you would like me to fill.
+
 ## License 
  This is free and unencumbered software released into the public domain. Anyone is free to copy, modify, publish, use, compile, sell, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means. 
  
