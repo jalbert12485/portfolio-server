@@ -25,6 +25,8 @@ addProject("fitness-tracker","Fitness Tracker","Keep track of all your exercisin
 
 addProject("burger","Burgers!","A full stak application that logs burgers that have been made and those that have been eaten.",false,true,"https://ghoulish-nightmare-54214.herokuapp.com/");
 
+addProject("permutations", "Combinatorial Counting", "Calculate the number of permutations, combination or multisets for given situations.  You can also view a random example of each of these.",true,false,null);
+
 addProject("covid-data","COVID Tracking","Want to check the latest statistics for COVID in your state?  You can get detailed up to date information here.",true,false,null);
 
 addProject("team-information","Team Information","A node.js program that can take user infomration and save and display employee information.",false,false,null);
